@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity">Activity</string>
+    <string name="service">Service</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="contentprovider">ContentProvider</string>
+    <string name="jni">JNI</string>
+    <string name="title_activity_home">ActivityHome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_broadcast_home">BroadcastHome</string>
+    <string name="title_activity_content_provider_home">ContentProviderHome</string>
+    <string name="title_activity_jni_home">JniHome</string>
+    <string name="title_activity_service_home">ServiceHome</string>
+</resources>
